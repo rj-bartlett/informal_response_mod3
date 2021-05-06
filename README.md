@@ -11,7 +11,7 @@ This includes layers the first two administrative levels inside Cambodia. Only t
 ![rasterstack](https://user-images.githubusercontent.com/78227378/117345564-b15c7d00-ae74-11eb-855f-8ad866e33a2d.png)
 
 Code:
-``` python
+``` R
  pop19_fit %>% collect_metrics()
 # A tibble: 2 x 4
   .metric .estimator  .estimate .config             
