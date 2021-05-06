@@ -24,4 +24,5 @@ Code:
 ![Lin Reg results](https://user-images.githubusercontent.com/78227378/117354296-2c2a9580-ae7f-11eb-87dc-95df14ebcf49.png)
 
 Variable Importance Chart:
+
 ![Lin Reg importance](https://user-images.githubusercontent.com/78227378/117354432-4f554500-ae7f-11eb-9b15-f259afbc3310.png)
