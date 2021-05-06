@@ -9,3 +9,4 @@ This includes layers the first two administrative levels inside Cambodia. Only t
 #### Rasterstack 
 ![rasterstack](https://user-images.githubusercontent.com/78227378/117345564-b15c7d00-ae74-11eb-855f-8ad866e33a2d.png)
 
+### Linear Regression
