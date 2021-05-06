@@ -10,3 +10,7 @@ This includes layers the first two administrative levels inside Cambodia. Only t
 ![rasterstack](https://user-images.githubusercontent.com/78227378/117345564-b15c7d00-ae74-11eb-855f-8ad866e33a2d.png)
 
 ### Linear Regression
+Results: 
+![Lin Reg results](https://user-images.githubusercontent.com/78227378/117354296-2c2a9580-ae7f-11eb-87dc-95df14ebcf49.png)
+Variable Importance Chart:
+![Lin Reg importance](https://user-images.githubusercontent.com/78227378/117354432-4f554500-ae7f-11eb-9b15-f259afbc3310.png)
